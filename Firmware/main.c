@@ -24,6 +24,7 @@
 #include <peripheral/pic32_adc.h>
 #include <peripheral/pic32_pps.h>
 #include <soft/pic32_realtime.h>
+//#include <soft/pic32_oneWire.h>
 
 //Definition
 #include <definition/datatype_megaxone.h>
