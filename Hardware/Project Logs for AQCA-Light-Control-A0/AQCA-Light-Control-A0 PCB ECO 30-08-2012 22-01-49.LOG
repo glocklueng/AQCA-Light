@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetICSP_5 Pin=R51-2
+Change Component Designator: OldDesignator=R51 NewDesignator=R57
+Added Pin To Net: NetName=VSS Pin=R51-1
+Added Pin To Net: NetName=NetICSP_5 Pin=R51-2
+Added Pin To Net: NetName=NetENTER_2 Pin=R57-2
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component R57 10K

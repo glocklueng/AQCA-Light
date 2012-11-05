@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDD Pin=LED1-1
+Removed Pin From Net: NetName=NetLED1_K Pin=LED1-2
+Change Component Footprint: Designator=LED1 Old Footprint=LED 1608m New Footprint=LED 3216m
+Added Pin To Net: NetName=VDD Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K

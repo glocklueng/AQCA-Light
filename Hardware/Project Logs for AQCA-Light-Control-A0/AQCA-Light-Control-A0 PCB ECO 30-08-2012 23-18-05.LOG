@@ -1,0 +1,13 @@
+Added Component: Designator=R58(RESC1608N)
+Added Component: Designator=R59(RESC1608N)
+Added Component: Designator=R60(RESC1608N)
+Added Component: Designator=U2(TSOP65P640_HS-14N)
+Added Pin To Net: NetName=NetR14_2 Pin=R58-1
+Added Pin To Net: NetName=VSS Pin=R58-2
+Added Pin To Net: NetName=NetR34_2 Pin=R59-1
+Added Pin To Net: NetName=VSS Pin=R59-2
+Added Pin To Net: NetName=NetR49_2 Pin=R60-1
+Added Pin To Net: NetName=VSS Pin=R60-2
+Added Member To Class: ClassName=AQCA-Light-Control-CoolWhite-A0 Member=Component R58 10K
+Added Member To Class: ClassName=AQCA-Light-Control-Blue-A0 Member=Component R59 10K
+Added Member To Class: ClassName=AQCA-Light-Control-WarmWhite-A0 Member=Component R60 10K

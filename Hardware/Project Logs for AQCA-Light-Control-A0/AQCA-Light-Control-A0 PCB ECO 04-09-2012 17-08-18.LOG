@@ -1,0 +1,42 @@
+Added Component: Designator=C39(CAPC1608N)
+Added Component: Designator=C40(CAPC1608N)
+Added Component: Designator=C41(CAPC1608N)
+Added Component: Designator=C42(CAPC1608N)
+Added Component: Designator=C43(CAPC1608N)
+Added Component: Designator=C44(CAPC1608N)
+Added Pin To Net: NetName=VSS Pin=C39-2
+Added Pin To Net: NetName=VSS Pin=C40-2
+Added Pin To Net: NetName=VSS Pin=C41-2
+Added Pin To Net: NetName=VSS Pin=C42-2
+Added Pin To Net: NetName=VSS Pin=C43-2
+Added Pin To Net: NetName=VSS Pin=C44-2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=SENSE-3
+Added Pin To Net: NetName=NetC39_1 Pin=U1-6
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_1 Pin=SENSE-4
+Added Pin To Net: NetName=NetC40_1 Pin=U1-7
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=Temp-4
+Added Pin To Net: NetName=NetC41_1 Pin=U1-23
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=NetC42_1 Pin=Temp-3
+Added Pin To Net: NetName=NetC42_1 Pin=U1-24
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=NetC43_1 Pin=Temp-2
+Added Pin To Net: NetName=NetC43_1 Pin=U1-25
+Added Net: Name=NetC43_1
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=Temp-1
+Added Pin To Net: NetName=NetC44_1 Pin=U1-26
+Added Net: Name=NetC44_1
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component C39 100nF
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component C40 100nF
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component C41 100nF
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component C42 100nF
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component C43 100nF
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component C44 100nF

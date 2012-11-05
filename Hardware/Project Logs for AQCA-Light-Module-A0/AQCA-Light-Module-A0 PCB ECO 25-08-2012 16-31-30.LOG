@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=GND Pin=BLUE_A-5
+Removed Pin From Net: NetName=GND Pin=BLUE_K-5
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Member From Class: ClassName=AQCA-Light-Module-A0 Member=12V_in
+Removed Member From Class: ClassName=AQCA-Light-Module-A0 Member=12V_out
+Removed Member From Class: ClassName=AQCA-Light-Module-A0 Member=4000K_A
+Removed Member From Class: ClassName=AQCA-Light-Module-A0 Member=4000K_K
+Removed Member From Class: ClassName=AQCA-Light-Module-A0 Member=6500K_A
+Removed Member From Class: ClassName=AQCA-Light-Module-A0 Member=6500K_K
+Removed Member From Class: ClassName=AQCA-Light-Module-A0 Member=BLUE_A
+Removed Member From Class: ClassName=AQCA-Light-Module-A0 Member=BLUE_K
+Change Component DesignItemId : Designator=U1 Old DesignItemId=TCN75A New DesignItemId=78L05
+Change Component Footprint: Designator=U1 Old Footprint=MSOP-8 New Footprint=SOIC127P600-8BN
+Change Component Comment : Designator=U1 Old Comment=TCN75A New Comment=78L05
+Added Component: Designator=12Vin(HDR4x1 EDGE)
+Added Component: Designator=12Vout(HDR4x1 EDGE)
+Added Component: Designator=BLUEin(HDR4x1 EDGE)
+Added Component: Designator=BLUEout(HDR4x1 EDGE)
+Added Component: Designator=C1(CAPC1608N)
+Added Component: Designator=C2(CAPC1608N)
+Added Component: Designator=C3(CAPC1608N)
+Added Component: Designator=R1(RESC1608N)
+Added Component: Designator=Tempin(HDR4x1 EDGE)
+Added Component: Designator=Tempout(HDR4x1 EDGE)
+Added Component: Designator=U2(SOT23-3N)
+Added Component: Designator=WHITEin(HDR4x1 EDGE)
+Added Component: Designator=WHITEout(HDR4x1 EDGE)
+Added Pin To Net: NetName=GND Pin=BLUEin-2
+Added Pin To Net: NetName=GND Pin=BLUEout-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetBLUEin_1 Pin=BLUEin-1
+Added Pin To Net: NetName=NetBLUEin_1 Pin=LED11-A
+Added Net: Name=NetBLUEin_1
+Added Pin To Net: NetName=NetBLUEin_3 Pin=BLUEin-3
+Added Pin To Net: NetName=NetBLUEin_3 Pin=U2-2
+Added Net: Name=NetBLUEin_3
+Added Pin To Net: NetName=NetBLUEin_4 Pin=BLUEin-4
+Added Pin To Net: NetName=NetBLUEin_4 Pin=BLUEout-3
+Added Net: Name=NetBLUEin_4
+Added Pin To Net: NetName=NetBLUEout_1 Pin=BLUEout-1
+Added Pin To Net: NetName=NetBLUEout_1 Pin=LED12-K
+Added Net: Name=NetBLUEout_1
+Added Pin To Net: NetName=NetBLUEout_4 Pin=BLUEout-4
+Added Pin To Net: NetName=NetBLUEout_4 Pin=Tempin-1
+Added Net: Name=NetBLUEout_4
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=WHITEin-1
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED3_K Pin=LED3-K
+Added Pin To Net: NetName=NetLED3_K Pin=WHITEout-1
+Added Net: Name=NetLED3_K
+Added Pin To Net: NetName=NetLED4_A Pin=LED4-A
+Added Pin To Net: NetName=NetLED4_A Pin=WHITEin-2
+Added Net: Name=NetLED4_A
+Added Pin To Net: NetName=NetLED6_K Pin=LED6-K
+Added Pin To Net: NetName=NetLED6_K Pin=WHITEout-2
+Added Net: Name=NetLED6_K
+Added Pin To Net: NetName=NetLED7_A Pin=LED7-A
+Added Pin To Net: NetName=NetLED7_A Pin=WHITEin-3
+Added Net: Name=NetLED7_A
+Added Pin To Net: NetName=NetLED8_K Pin=LED8-K
+Added Pin To Net: NetName=NetLED8_K Pin=WHITEout-3
+Added Net: Name=NetLED8_K
+Added Pin To Net: NetName=NetLED9_A Pin=LED9-A
+Added Pin To Net: NetName=NetLED9_A Pin=WHITEin-4
+Added Net: Name=NetLED9_A
+Added Pin To Net: NetName=NetLED10_K Pin=LED10-K
+Added Pin To Net: NetName=NetLED10_K Pin=WHITEout-4
+Added Net: Name=NetLED10_K
+Added Pin To Net: NetName=NetTempin_2 Pin=Tempin-2
+Added Pin To Net: NetName=NetTempin_2 Pin=Tempout-1
+Added Net: Name=NetTempin_2
+Added Pin To Net: NetName=NetTempin_3 Pin=Tempin-3
+Added Pin To Net: NetName=NetTempin_3 Pin=Tempout-2
+Added Net: Name=NetTempin_3
+Added Pin To Net: NetName=NetTempin_4 Pin=Tempin-4
+Added Pin To Net: NetName=NetTempin_4 Pin=Tempout-3
+Added Net: Name=NetTempin_4
+Added Pin To Net: NetName=V5 Pin=C2-2
+Added Pin To Net: NetName=V5 Pin=R1-1
+Added Pin To Net: NetName=V5 Pin=U1-1
+Added Net: Name=V5
+Added Pin To Net: NetName=V12 Pin=12Vin-1
+Added Pin To Net: NetName=V12 Pin=12Vin-2
+Added Pin To Net: NetName=V12 Pin=12Vin-3
+Added Pin To Net: NetName=V12 Pin=12Vin-4
+Added Pin To Net: NetName=V12 Pin=12Vout-1
+Added Pin To Net: NetName=V12 Pin=12Vout-2
+Added Pin To Net: NetName=V12 Pin=12Vout-3
+Added Pin To Net: NetName=V12 Pin=12Vout-4
+Added Pin To Net: NetName=V12 Pin=C1-2
+Added Pin To Net: NetName=V12 Pin=U1-8
+Added Net: Name=V12
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component 12Vin HDR1X4
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component 12Vout HDR1X4
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component BLUEin HDR1X4
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component BLUEout HDR1X4
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component C1 1µF
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component C2 1µF
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component C3 100nF
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component R1 150
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component Tempin HDR1X4
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component Tempout HDR1X4
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component U2 MCP9700
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component WHITEin HDR1X4
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component WHITEout HDR1X4

@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetDOWN_2 Pin=DOWN-2
+Removed Pin From Net: NetName=NetENTER_2 Pin=ENTER-2
+Change Component Footprint: Designator=DOWN Old Footprint=Tact TH 4pin 6×6mm New Footprint=TACT SMD 4.5×4.5mm
+Change Component Footprint: Designator=ENTER Old Footprint=Tact TH 4pin 6×6mm New Footprint=TACT SMD 4.5×4.5mm
+Change Component Footprint: Designator=UP Old Footprint=Tact TH 4pin 6×6mm New Footprint=TACT SMD 4.5×4.5mm
+Added Component: Designator=LED1(LED 1608m)
+Added Component: Designator=LED2(LED PLCC-6)
+Added Component: Designator=R53(RESC1608N)
+Added Component: Designator=R54(RESC1608N)
+Added Component: Designator=R55(RESC1608N)
+Added Component: Designator=R56(RESC1608N)
+Added Pin To Net: NetName=NetDOWN_2 Pin=DOWN-4
+Added Pin To Net: NetName=NetENTER_2 Pin=ENTER-4
+Added Pin To Net: NetName=NetDOWN_2 Pin=ICSP-4
+Added Pin To Net: NetName=VDD Pin=LED1-1
+Added Pin To Net: NetName=VSS Pin=LED2-1
+Added Pin To Net: NetName=VSS Pin=LED2-3
+Added Pin To Net: NetName=VSS Pin=LED2-5
+Added Pin To Net: NetName=VSS Pin=R51-1
+Added Pin To Net: NetName=NetENTER_2 Pin=R51-2
+Added Pin To Net: NetName=NetICSP_5 Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=NetENTER_2 Pin=U1-9
+Added Pin To Net: NetName=NetDOWN_2 Pin=U1-14
+Added Pin To Net: NetName=NetICSP_5 Pin=UP-4
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_K Pin=R53-2
+Added Net: Name=NetLED1_K
+Added Pin To Net: NetName=NetLED2_AB Pin=LED2-6
+Added Pin To Net: NetName=NetLED2_AB Pin=R56-2
+Added Net: Name=NetLED2_AB
+Added Pin To Net: NetName=NetLED2_AG Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_AG Pin=R55-2
+Added Net: Name=NetLED2_AG
+Added Pin To Net: NetName=NetLED2_AR Pin=LED2-4
+Added Pin To Net: NetName=NetLED2_AR Pin=R54-2
+Added Net: Name=NetLED2_AR
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=U1-10
+Added Net: Name=NetR54_1
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U1-12
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR56_1 Pin=R56-1
+Added Pin To Net: NetName=NetR56_1 Pin=U1-11
+Added Net: Name=NetR56_1
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component LED1 
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component LED2 LED RGB
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component R53 470
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component R54 470
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component R55 330
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component R56 330

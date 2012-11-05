@@ -1,0 +1,101 @@
+Added Component: Designator=12V_in(HDR1X5H)
+Added Component: Designator=12V_out(HDR1X5H)
+Added Component: Designator=4000K_A(HDR1X2H)
+Added Component: Designator=4000K_K(HDR1X2H)
+Added Component: Designator=6500K_A(HDR1X2H)
+Added Component: Designator=6500K_K(HDR1X2H)
+Added Component: Designator=BLUE_A(HDR1X5H)
+Added Component: Designator=BLUE_K(HDR1X5H)
+Added Component: Designator=LED1(LED MX-6)
+Added Component: Designator=LED2(LED MX-6)
+Added Component: Designator=LED3(LED MX-6)
+Added Component: Designator=LED4(LED MX-6)
+Added Component: Designator=LED5(LED MX-6)
+Added Component: Designator=LED6(LED MX-6)
+Added Component: Designator=LED7(LED GW DASPA1)
+Added Component: Designator=LED8(LED GW DASPA1)
+Added Component: Designator=LED9(LED GW DASPA1)
+Added Component: Designator=LED10(LED GW DASPA1)
+Added Component: Designator=LED11(LED Golden Dragon Plus)
+Added Component: Designator=LED12(LED Golden Dragon Plus)
+Added Component: Designator=U1(MSOP-8)
+Added Pin To Net: NetName=GND Pin=BLUE_A-5
+Added Pin To Net: NetName=GND Pin=BLUE_K-5
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_in-1
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_in-2
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_in-3
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_in-4
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_in-5
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_out-1
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_out-2
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_out-3
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_out-4
+Added Pin To Net: NetName=Net12V_in_1 Pin=12V_out-5
+Added Net: Name=Net12V_in_1
+Added Pin To Net: NetName=Net4000K_A_1 Pin=4000K_A-1
+Added Pin To Net: NetName=Net4000K_A_1 Pin=LED7-A
+Added Net: Name=Net4000K_A_1
+Added Pin To Net: NetName=Net4000K_A_2 Pin=4000K_A-2
+Added Pin To Net: NetName=Net4000K_A_2 Pin=LED9-A
+Added Net: Name=Net4000K_A_2
+Added Pin To Net: NetName=Net4000K_K_1 Pin=4000K_K-1
+Added Pin To Net: NetName=Net4000K_K_1 Pin=LED8-K
+Added Net: Name=Net4000K_K_1
+Added Pin To Net: NetName=Net4000K_K_2 Pin=4000K_K-2
+Added Pin To Net: NetName=Net4000K_K_2 Pin=LED10-K
+Added Net: Name=Net4000K_K_2
+Added Pin To Net: NetName=Net6500K_A_1 Pin=6500K_A-1
+Added Pin To Net: NetName=Net6500K_A_1 Pin=LED1-A
+Added Net: Name=Net6500K_A_1
+Added Pin To Net: NetName=Net6500K_A_2 Pin=6500K_A-2
+Added Pin To Net: NetName=Net6500K_A_2 Pin=LED4-A
+Added Net: Name=Net6500K_A_2
+Added Pin To Net: NetName=Net6500K_K_1 Pin=6500K_K-1
+Added Pin To Net: NetName=Net6500K_K_1 Pin=LED3-K
+Added Net: Name=Net6500K_K_1
+Added Pin To Net: NetName=Net6500K_K_2 Pin=6500K_K-2
+Added Pin To Net: NetName=Net6500K_K_2 Pin=LED6-K
+Added Net: Name=Net6500K_K_2
+Added Pin To Net: NetName=NetBLUE_A_1 Pin=BLUE_A-1
+Added Pin To Net: NetName=NetBLUE_A_1 Pin=LED11-A
+Added Net: Name=NetBLUE_A_1
+Added Pin To Net: NetName=NetBLUE_A_3 Pin=BLUE_A-3
+Added Pin To Net: NetName=NetBLUE_A_3 Pin=BLUE_K-3
+Added Pin To Net: NetName=NetBLUE_A_3 Pin=U1-1
+Added Net: Name=NetBLUE_A_3
+Added Pin To Net: NetName=NetBLUE_A_4 Pin=BLUE_A-4
+Added Pin To Net: NetName=NetBLUE_A_4 Pin=BLUE_K-4
+Added Pin To Net: NetName=NetBLUE_A_4 Pin=U1-2
+Added Net: Name=NetBLUE_A_4
+Added Pin To Net: NetName=NetBLUE_K_1 Pin=BLUE_K-1
+Added Pin To Net: NetName=NetBLUE_K_1 Pin=LED12-K
+Added Net: Name=NetBLUE_K_1
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=NetLED1_K Pin=LED2-A
+Added Net: Name=NetLED1_K
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-K
+Added Pin To Net: NetName=NetLED2_K Pin=LED3-A
+Added Net: Name=NetLED2_K
+Added Pin To Net: NetName=NetLED4_K Pin=LED4-K
+Added Pin To Net: NetName=NetLED4_K Pin=LED5-A
+Added Net: Name=NetLED4_K
+Added Pin To Net: NetName=NetLED5_K Pin=LED5-K
+Added Pin To Net: NetName=NetLED5_K Pin=LED6-A
+Added Net: Name=NetLED5_K
+Added Pin To Net: NetName=NetLED7_K Pin=LED7-K
+Added Pin To Net: NetName=NetLED7_K Pin=LED8-A
+Added Net: Name=NetLED7_K
+Added Pin To Net: NetName=NetLED9_K Pin=LED9-K
+Added Pin To Net: NetName=NetLED9_K Pin=LED10-A
+Added Net: Name=NetLED9_K
+Added Pin To Net: NetName=NetLED11_K Pin=LED11-K
+Added Pin To Net: NetName=NetLED11_K Pin=LED12-A
+Added Net: Name=NetLED11_K
+Added Pin To Net: NetName=VCC Pin=BLUE_A-2
+Added Pin To Net: NetName=VCC Pin=BLUE_K-2
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Net: Name=VCC
+Added Class: Name=AQCA-Light-Module-A0
+Added Room: Name=AQCA-Light-Module-A0

@@ -1,0 +1,20 @@
+Change Component DesignItemId : Designator=LEDAout Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=LEDAterm Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=LEDKout Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=LEDKterm Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=SENSE Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=SENSEterm Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=Temp Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=TempTerm Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component Footprint: Designator=LEDAout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE female
+Change Component Footprint: Designator=LEDKout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE female
+Change Component Footprint: Designator=SENSE Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE female
+Change Component Footprint: Designator=Temp Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE female
+Change Component Comment : Designator=LEDAout Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=LEDAterm Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=LEDKout Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=LEDKterm Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=SENSE Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=SENSEterm Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=Temp Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=TempTerm Old Comment=HDR1X4 New Comment=HDR4x1

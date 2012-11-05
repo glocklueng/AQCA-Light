@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=BLUEin-2
+Removed Pin From Net: NetName=NetBLUEin_4 Pin=BLUEout-2
+Removed Pin From Net: NetName=GND Pin=BLUEout-3
+Removed Pin From Net: NetName=NetBLUEin_1 Pin=LED11-A
+Removed Pin From Net: NetName=NetBLUEout_4 Pin=LED12-K
+Removed Pin From Net: NetName=NetBLUEout_1 Pin=Tempin-1
+Removed Pin From Net: NetName=NetTempin_3 Pin=Tempout-3
+Removed Pin From Net: NetName=NetTempin_2 Pin=Tempout-4
+Added Pin To Net: NetName=GND Pin=BLUEin-3
+Added Pin To Net: NetName=GND Pin=BLUEout-2
+Added Pin To Net: NetName=NetBLUEin_1 Pin=BLUEout-3
+Added Pin To Net: NetName=NetBLUEin_4 Pin=LED11-A
+Added Pin To Net: NetName=NetBLUEout_1 Pin=LED12-K
+Added Pin To Net: NetName=NetBLUEout_4 Pin=Tempin-4
+Added Pin To Net: NetName=NetTempin_3 Pin=Tempout-1
+Added Pin To Net: NetName=NetTempin_2 Pin=Tempout-2
+Added Pin To Net: NetName=NetBLUEin_2 Pin=BLUEin-2
+Added Pin To Net: NetName=NetBLUEin_2 Pin=U2-2
+Added Net: Name=NetBLUEin_2
+Added Pin To Net: NetName=NetTempin_1 Pin=Tempin-1
+Added Pin To Net: NetName=NetTempin_1 Pin=Tempout-3
+Added Net: Name=NetTempin_1

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetDOWN_2 Pin=ICSP-4
+Removed Pin From Net: NetName=NetDOWN_2 Pin=U1-14
+Added Pin To Net: NetName=NetDOWN_2 Pin=ICSP-5
+Added Pin To Net: NetName=NetDOWN_2 Pin=U1-15
+Added Pin To Net: NetName=NetICSP_4 Pin=ICSP-4
+Added Pin To Net: NetName=NetICSP_4 Pin=R51-2
+Added Pin To Net: NetName=NetICSP_4 Pin=U1-14
+Added Pin To Net: NetName=NetICSP_4 Pin=UP-4
+Added Net: Name=NetICSP_4
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component R51 10K

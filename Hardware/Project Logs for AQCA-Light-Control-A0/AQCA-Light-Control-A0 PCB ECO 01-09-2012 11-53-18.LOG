@@ -1,0 +1,10 @@
+Added Component: Designator=CON1(Molex Mini-Fit 8pin)
+Added Pin To Net: NetName=V12 Pin=CON1-1
+Added Pin To Net: NetName=V12 Pin=CON1-2
+Added Pin To Net: NetName=V12 Pin=CON1-3
+Added Pin To Net: NetName=GND Pin=CON1-4
+Added Pin To Net: NetName=GND Pin=CON1-5
+Added Pin To Net: NetName=GND Pin=CON1-6
+Added Pin To Net: NetName=GND Pin=CON1-7
+Added Pin To Net: NetName=GND Pin=CON1-8
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component CON1 Molex Mini-Fit 8pin

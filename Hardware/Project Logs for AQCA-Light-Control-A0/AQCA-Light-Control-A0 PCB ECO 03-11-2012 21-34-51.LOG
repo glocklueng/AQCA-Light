@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VSS Pin=Q10-1
+Change Component DesignItemId : Designator=Q10 Old DesignItemId=PNP New DesignItemId=NPN
+Change Component Comment : Designator=Q10 Old Comment=* New Comment=S8050
+Added Component: Designator=LEDAout(HDR4x1 EDGE female)
+Added Component: Designator=LEDKout(HDR4x1 EDGE female)
+Added Component: Designator=SENSE(HDR4x1 EDGE female)
+Added Component: Designator=Temp(HDR4x1 EDGE female)
+Added Pin To Net: NetName=NetC33_2 Pin=LEDAout-1
+Added Pin To Net: NetName=NetC35_1 Pin=LEDAout-2
+Added Pin To Net: NetName=NetC36_1 Pin=LEDAout-3
+Added Pin To Net: NetName=NetC34_1 Pin=LEDAout-4
+Added Pin To Net: NetName=NetC6_2 Pin=LEDKout-1
+Added Pin To Net: NetName=NetC29_2 Pin=LEDKout-2
+Added Pin To Net: NetName=NetC20_2 Pin=LEDKout-3
+Added Pin To Net: NetName=NetC6_2 Pin=LEDKout-4
+Added Pin To Net: NetName=VSS Pin=Q10-2
+Added Pin To Net: NetName=NetR19_2 Pin=SENSE-1
+Added Pin To Net: NetName=VSS Pin=SENSE-2
+Added Pin To Net: NetName=NetC39_1 Pin=SENSE-3
+Added Pin To Net: NetName=NetC40_1 Pin=SENSE-4
+Added Pin To Net: NetName=NetC44_1 Pin=Temp-1
+Added Pin To Net: NetName=NetC43_1 Pin=Temp-2
+Added Pin To Net: NetName=NetC42_1 Pin=Temp-3
+Added Pin To Net: NetName=NetC41_1 Pin=Temp-4
+Added Pin To Net: NetName=NetQ10_3 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_3 Pin=R61-1
+Added Net: Name=NetQ10_3
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component LEDAout HDR4x1
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component LEDKout HDR4x1
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component SENSE HDR4x1
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component Temp HDR4x1

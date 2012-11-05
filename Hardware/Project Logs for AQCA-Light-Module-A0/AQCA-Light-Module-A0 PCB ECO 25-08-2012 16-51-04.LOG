@@ -1,0 +1,8 @@
+Change Physical Footprint: Designator=12Vin Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE
+Change Physical Footprint: Designator=12Vout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE
+Change Physical Footprint: Designator=BLUEin Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE
+Change Physical Footprint: Designator=BLUEout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE
+Change Physical Footprint: Designator=Tempin Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE
+Change Physical Footprint: Designator=Tempout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE
+Change Physical Footprint: Designator=WHITEin Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE
+Change Physical Footprint: Designator=WHITEout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE

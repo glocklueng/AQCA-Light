@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetLED1_A Pin=LEDin-1
+Removed Pin From Net: NetName=NetLED3_A Pin=LEDin-2
+Removed Pin From Net: NetName=NetLED5_A Pin=LEDin-3
+Removed Pin From Net: NetName=NetLED7_A Pin=LEDin-4
+Removed Pin From Net: NetName=NetLED8_K Pin=LEDout-1
+Removed Pin From Net: NetName=NetLED6_K Pin=LEDout-2
+Removed Pin From Net: NetName=NetLED4_K Pin=LEDout-3
+Removed Pin From Net: NetName=NetLED2_K Pin=LEDout-4
+Added Pin To Net: NetName=NetLED3_A Pin=LEDin-1
+Added Pin To Net: NetName=NetLED5_A Pin=LEDin-2
+Added Pin To Net: NetName=NetLED7_A Pin=LEDin-3
+Added Pin To Net: NetName=NetLED1_A Pin=LEDin-4
+Added Pin To Net: NetName=NetLED2_K Pin=LEDout-1
+Added Pin To Net: NetName=NetLED8_K Pin=LEDout-2
+Added Pin To Net: NetName=NetLED6_K Pin=LEDout-3
+Added Pin To Net: NetName=NetLED4_K Pin=LEDout-4
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component C2 100nF
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component U1 MCP9700

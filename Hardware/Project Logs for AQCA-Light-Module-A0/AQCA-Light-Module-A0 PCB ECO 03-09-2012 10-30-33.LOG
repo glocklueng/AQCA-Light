@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=V5 Pin=LED1-A
+Change Component Footprint: Designator=LED1 Old Footprint=LED 3216m New Footprint=LED XP-E
+Change Component Comment : Designator=LED1 Old Comment= New Comment=7500K
+Added Component: Designator=LED9(LED 3216m)
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=V5 Pin=LED9-A
+Added Pin To Net: NetName=NetLED9_K Pin=LED9-K
+Added Net: Name=NetLED9_K
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component LED1 7500K
+Added Member To Class: ClassName=AQCA-Light-Module-A0 Member=Component LED9 

@@ -1,0 +1,5 @@
+Added Component: Designator=CON3(HDR1X3)
+Added Pin To Net: NetName=NetCON2_1 Pin=CON3-1
+Added Pin To Net: NetName=VSS Pin=CON3-2
+Added Pin To Net: NetName=NetCON2_3 Pin=CON3-3
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component CON3 Header 3

@@ -1,0 +1,26 @@
+Added Component: Designator=12Vin(HDR4x1 EDGE)
+Added Component: Designator=12Vout(HDR4x1 EDGE)
+Added Component: Designator=C1(CAPC3225N)
+Added Component: Designator=C2(CAPC3225N)
+Added Component: Designator=D1(SOD123)
+Added Component: Designator=LEDin(HDR4x1 EDGE)
+Added Component: Designator=LEDout(HDR4x1 EDGE)
+Added Component: Designator=Q1(DPAK 369AA)
+Added Component: Designator=SENSEin(HDR4x1 EDGE)
+Added Component: Designator=SENSEout(HDR4x1 EDGE)
+Added Component: Designator=Tempin(HDR4x1 EDGE)
+Added Component: Designator=Tempout(HDR4x1 EDGE)
+Added Component: Designator=U1(TSOP65P640_HS-14N)
+Added Component: Designator=U2(TSOP65P640_HS-14N)
+Added Component: Designator=U3(TSOP65P640_HS-14N)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Net: Name=GND
+Added Pin To Net: NetName=V12 Pin=C1-2
+Added Pin To Net: NetName=V12 Pin=C2-2
+Added Pin To Net: NetName=V12 Pin=U1-1
+Added Pin To Net: NetName=V12 Pin=U3-1
+Added Net: Name=V12
+Added Class: Name=AQCA-Light-Control-Power-A0

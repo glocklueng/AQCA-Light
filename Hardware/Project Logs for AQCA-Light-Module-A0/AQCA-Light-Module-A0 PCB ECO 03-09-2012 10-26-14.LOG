@@ -1,0 +1,23 @@
+Change Component DesignItemId : Designator=LEDAin Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=LEDAout Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=LEDKin Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=LEDKout Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=SENSEin Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=SENSEout Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=Tempin Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component DesignItemId : Designator=Tempout Old DesignItemId=HDR1X4 New DesignItemId=HDR4x1
+Change Component Footprint: Designator=LEDAout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE female
+Change Component Footprint: Designator=LEDKout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE female
+Change Component Footprint: Designator=SENSEout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE female
+Change Component Footprint: Designator=Tempout Old Footprint=HDR4x1 EDGE New Footprint=HDR4x1 EDGE female
+Change Component Comment : Designator=LEDAin Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=LEDAout Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=LEDKin Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=LEDKout Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=SENSEin Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=SENSEout Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=Tempin Old Comment=HDR1X4 New Comment=HDR4x1
+Change Component Comment : Designator=Tempout Old Comment=HDR1X4 New Comment=HDR4x1
+Added Component: Designator=LED1(LED 3216m)
+Added Pin To Net: NetName=V5 Pin=LED1-A
+Added Net: Name=VSS

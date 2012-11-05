@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC20_2 Pin=LEDKout-2
+Removed Pin From Net: NetName=NetC29_2 Pin=LEDKout-3
+Added Pin To Net: NetName=NetC29_2 Pin=LEDKout-2
+Added Pin To Net: NetName=NetC20_2 Pin=LEDKout-3

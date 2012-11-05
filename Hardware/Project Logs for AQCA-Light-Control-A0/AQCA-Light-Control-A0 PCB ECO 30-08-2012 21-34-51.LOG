@@ -1,0 +1,35 @@
+Change Component Comment : Designator=U1 Old Comment=PIC32MX120FxxxB New Comment=PIC32MX150F128B
+Added Component: Designator=C37(CAPC3225N)
+Added Component: Designator=C38(CAPC3225N)
+Added Component: Designator=R51(RESC1608N)
+Added Component: Designator=R51(RESC1608N)
+Added Component: Designator=R52(RESC1608N)
+Added Component: Designator=U9(SOT223-4N)
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=V12 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=VDD Pin=C38-2
+Added Pin To Net: NetName=VDD Pin=DOWN-1
+Added Pin To Net: NetName=VDD Pin=ENTER-1
+Added Pin To Net: NetName=VSS Pin=R51-1
+Added Pin To Net: NetName=VSS Pin=R51-1
+Added Pin To Net: NetName=VSS Pin=R52-1
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=VDD Pin=U9-2
+Added Pin To Net: NetName=V12 Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=VDD Pin=UP-1
+Added Pin To Net: NetName=NetDOWN_2 Pin=DOWN-2
+Added Pin To Net: NetName=NetDOWN_2 Pin=R52-2
+Added Net: Name=NetDOWN_2
+Added Pin To Net: NetName=NetENTER_2 Pin=ENTER-2
+Added Pin To Net: NetName=NetENTER_2 Pin=R51-2
+Added Net: Name=NetENTER_2
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=UP-2
+Added Net: Name=NetR51_2
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component C37 10µF
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component C38 10µF
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component R51 10K
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component R52 10K
+Added Member To Class: ClassName=AQCA-Light-Control-uC-A0 Member=Component U9 NCP117LP-33

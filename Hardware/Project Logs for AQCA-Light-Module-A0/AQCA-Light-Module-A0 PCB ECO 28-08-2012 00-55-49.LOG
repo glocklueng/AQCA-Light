@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=12Vin NewDesignator=LEDKin
+Change Component Designator: OldDesignator=12Vout NewDesignator=LEDKout
+Change Component Designator: OldDesignator=LEDin NewDesignator=LEDAin
+Change Component Designator: OldDesignator=LEDout NewDesignator=LEDAout
+Added Pin To Net: NetName=NetLEDKin_1 Pin=LEDKin-1
+Added Pin To Net: NetName=NetLEDKin_1 Pin=LEDKout-4
+Added Net: Name=NetLEDKin_1
+Added Pin To Net: NetName=NetLEDKin_2 Pin=LEDKin-2
+Added Pin To Net: NetName=NetLEDKin_2 Pin=LEDKout-3
+Added Net: Name=NetLEDKin_2
+Added Pin To Net: NetName=NetLEDKin_3 Pin=LEDKin-3
+Added Pin To Net: NetName=NetLEDKin_3 Pin=LEDKout-2
+Added Net: Name=NetLEDKin_3
+Added Pin To Net: NetName=NetLEDKin_4 Pin=LEDKin-4
+Added Pin To Net: NetName=NetLEDKin_4 Pin=LEDKout-1
+Added Net: Name=NetLEDKin_4

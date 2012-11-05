@@ -1,0 +1,61 @@
+Aqua-thinker
+
+=== LIGHT SYSTEM ===
+
+-Fresh Water LED Device:
+2x 600lumen @ 5000-8000K	20W		(cool white)
+1x 150lumen @ 445nm			10W		(royal blue)
+1x 150lumen @ 465nm			10W		(blue)
+middle:
+1x 400lumen @ 625nm			10W		(red)
+Total: 1900lumen			50W
+----------------
+1 channel pour les cool white
+1 channel pour les blue et royal blue
+1 channel pour la red
+
+
+-Salt Water LED Device:
+2x 600lumen @ 5000-8000K	20W		(cool white)
+1x 150lumen @ 445nm			10W		(royal blue)
+1x 150lumen @ 465nm			10W		(blue)
+middle:
+1x 150lumen @ 445nm			10W		(royal blue)
+Total: 1650lumen			50W
+----------------
+1 channel pour les cool white
+1 channel pour les blue et royal blue
+
+
+-Reef Mega System
+2x 1500lumen @ 5000-8000K	40W		(cool white)	
+1x 600lumen @ 465nm			20W		(blue)
+1x 600lumen @ 445nm			20W		(royal blue)
+Total: 4200lumen			80W
+----------------
+1 channel pour les cool white
+1 channel pour les blue et royal blue
+
+-Coral Showtime
+blast of cool white blue and royal blue
+pink, yellow, red and UV light for color
+
+Système de soutien sur une grille, permet de positionner les lumière n'importe ou
+PWM Controller I2C/SPI/OneW avec 16 PWM output
+
+
+=== TEMP CONTROL ===
+Note: Jamais plus de +/- 1 celcius par 5h (5 par 24h)
+
+
+=== PH PROBE ====
+
+
+
+=== CONDUCTIVITY PROBE ===
+TDS: Total Dissolved Solids
+GH: Global hardness (in degree or "d" (1d = 17.9mg/L))
+KH: Carbonate level [CaCO3] (in degree or "d" (1d = 17.9mg/L))
+	note: Utilisé comme buffer pour maitenir un pH stable
+DH: Même chose que KH
+Hardness: Global hardness (in degree or "d" (1d = 1mg/L))

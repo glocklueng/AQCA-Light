@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U9-4
+Change Component Comment : Designator=U9 Old Comment=NCP117LP-33 New Comment=NCP117LP-??
+Added Pin To Net: NetName=VDD Pin=U9-4
